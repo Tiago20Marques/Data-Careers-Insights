@@ -18,3 +18,7 @@ Built using **Excel** for data cleaning and **PowerBI** for interactive dashboar
 - `Power BI - Final Project.xlsx` – Dataset
 - `Power BI Project.pbix` – Power BI dashboard
 - Screenshots folder for previews
+
+## 📸 Dashboard Preview
+Here’s a preview of the Power BI dashboard:
+![Dashboard Overview](Screenshot PowerBI.png)
