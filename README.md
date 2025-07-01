@@ -21,4 +21,5 @@ Built using **Excel** for data cleaning and **PowerBI** for interactive dashboar
 
 ## 📸 Dashboard Preview
 Here’s a preview of the Power BI dashboard:
-![Dashboard Overview](Screenshot PowerBI.png)
+![Dashboard Overview](screenshots/overview.png)
+
